@@ -1,0 +1,14 @@
+pandas
+numpy
+tensorflow
+requests
+nltk
+spacy
+openpyxl
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+trl
+peft
+accelerate
+bitsandbytes
+xformers
+keras-tuner
